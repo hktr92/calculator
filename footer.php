@@ -1,0 +1,1 @@
+<footer>Copyright &copy; kronick.<br /><b>Version <?php include '.version'; ?></b></footer>
